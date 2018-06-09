@@ -1,4 +1,5 @@
 # DataBaseProject
 
-Project2 include java project
-library include mySQL database
+Project2 - java project
+
+library - mySQL database
